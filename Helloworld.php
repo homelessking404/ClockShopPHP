@@ -3,12 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Test Nhánh</title>
+    <title>Document</title>
 </head>
 <body>
     <?php
-        echo "HELLO MY NAME KHOA";
-        echo""
+    echo "Hello my name is khoa";
     ?>
 </body>
 </html>

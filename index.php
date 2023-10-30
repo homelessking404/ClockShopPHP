@@ -8,7 +8,7 @@
 <body>
     <?php
         echo "HELLO MY NAME KHOA";
-        echo""
+        echo"";
     ?>
 </body>
 </html>
